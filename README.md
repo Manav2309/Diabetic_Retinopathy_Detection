@@ -10,9 +10,9 @@ Data Augmentation: Enhances model robustness.
 Metrics: Evaluates performance with F1-score, ROC-AUC, and accuracy.
 
 ## Requirements ##
--Python 3.8+
--TensorFlow/Keras
--Scikit-learn
--Pandas
--Matplotlib
--Tensorflow-hub 
+- Python 3.8+
+- TensorFlow/Keras
+- Scikit-learn
+- Pandas
+- Matplotlib
+- Tensorflow-hub 
