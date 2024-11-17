@@ -1,4 +1,4 @@
-***Diabetic Retinopathy Detection with Transfer Learning and SMOTE***
+**Diabetic Retinopathy Detection with Transfer Learning and SMOTE**
 
 Overview
 This project implements a deep learning pipeline to detect diabetic retinopathy from retinal images using transfer learning and SMOTE. The goal is to classify retinal images into different stages of diabetic retinopathy, addressing the challenge of imbalanced datasets with SMOTE.
